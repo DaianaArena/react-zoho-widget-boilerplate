@@ -43,12 +43,12 @@ It correctly bundles React in production mode and optimizes the build for Zoho.
 
 To install the widget in your app you have to open your Settings and go to:
 
-Widgets>New Widget
+`Widgets>New Widget`
 
-If you want to access to the widget from a button, you must select that option and then host your code in Zoho and upload the .zip file you'll find in the 'dist' folder. Then, in the route field complete with '/index.html'
+If you want to access to the widget from a button, you must select that option and then host your code in Zoho and upload the .zip file you'll find in the 'dist' folder. Then, in the route field complete with `'/index.html'`
 
-To associate the widget to a button, you should go to ' Settings>Customization>Modules and Fields ' and select the module where you want to install the widget.
+To associate the widget to a button, you should go to `Settings>Customization>Modules and Fields` and select the module where you want to install the widget.
 
-In that module, choose 'Links and buttons' and create a New Button.
+In that module, choose `Links and buttons` and create a New Button.
 
 Select the option 'LIST VIEW UTILITIES MENU' and Create from the widget we install before.
