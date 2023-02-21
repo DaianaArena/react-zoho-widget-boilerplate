@@ -27,7 +27,9 @@ You may also see any lint errors in the console.
 
 ## How to create a package file to upload on Zoho CRM
 
-### `npm build`
+```
+npm run build
+```
 
 **Note: To make sure this works properly don't delete any of the files in root**
 
