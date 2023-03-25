@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/kxYsRSa.png" width="400"></p>
+
 # Getting Started - Zoho React Widget
 
 ## How to install this project in Windows
