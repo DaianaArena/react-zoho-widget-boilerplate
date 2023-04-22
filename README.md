@@ -2,7 +2,27 @@
 
 # Getting Started - Zoho React Widget
 
-## How to install this project in Windows
+## New features! Clone this repository from the template
+
+Now you can create new repositories based on this project by clicking on the "Use this template" button at the top of this repository page or by [clicking here.](https://github.com/DaianaArena/react-zoho-widget-boilerplate/generate)
+
+### How to clone this repository from the template:
+
+1. Give your new repository a name and description.
+2. Choose the owner for the new repository.
+3. Click "Create repository from template".
+
+### Once you have created your new repository from the template, you can clone it to your local machine using the following steps:
+
+1. Copy the URL of your new repository.
+2. Open your terminal or Git Bash.
+3. Navigate to the directory where you want to clone the repository.
+4. Run the following command: git clone <repository-url> (replace <repository-url> with the URL you copied in step 1).
+5. Press enter and the repository will be cloned to your local machine.
+
+**_That's it! You now have a local copy of the repository and can start working on it._**
+
+## How to install this project in Windows from scratch
 
 To install the project on your Windows computer, download the .zip file from the repository, unzip it and open it in your code editor.
 
