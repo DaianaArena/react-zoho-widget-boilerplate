@@ -60,6 +60,11 @@ It correctly bundles React in production mode and optimizes the build for Zoho.
 
 **Note: In the 'dist' folder you will find the .zip file that you can upload to your CRM!**
 
+## How to test the widget in your CRM
+
+To test the widget in your CRM you have to open your Settings and go to:
+
+`Widgets>New Widget` Then you select the external host and paste your localhost server (you can get it from the npm start command)
 
 ## How to install the widget in your CRM
 
