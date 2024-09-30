@@ -79,3 +79,23 @@ To associate the widget to a button, you should go to `Settings>Customization>Mo
 In that module, choose `Links and buttons` and create a New Button.
 
 Select the option 'LIST VIEW UTILITIES MENU' and Create from the widget we install before.
+
+
+## FAQs
+### Installing zoho CLI (zet pack)
+https://www.zoho.com/es-xl/crm/developer/docs/widgets/install-cli.html#Related_Topics
+
+### How to use zet pack with react
+You cannot use the 'zet pack' command to pack the React project directly. Kindly follow the below step by step guide to achieve this,
+
+1. Add the following line (with double quotes) just inside first curly bracket of package.json file,  in the react project folder.
+    "homepage": "./",
+2. Run the command ' npm run build ' to get the build folder in react project.
+3. Copy all the files and folder in the build folder thus created with the above command.
+4. Create new widget project using the command ' zet init '
+5. Go to the app folder in the widget project, delete widget.html file in the folder and paste everything copied before.
+6. Now zip the widget project using ' zet pack '
+7. Use the zip file in the dist folder to host internally.
+
+For more information and demo video use the below given github link.
+Github link : github link
